@@ -1,0 +1,169 @@
+{
+  "categorias": [
+    {
+      "titulo": "Melhores vídeos",
+      "link": "https://www.youtube.com/watch?v=vP3zJmtkhxc&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Veja mais vídeos",
+        "url": "https://www.youtube.com/watch?v=vP3zJmtkhxc&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj"
+      },
+      "videos": [
+        {
+          "titulo": "HACKEAMOS o DINO do CHROME com Arduino",
+          "url": "https://www.youtube.com/watch?v=dUGAAOIsd0c&t"
+        },
+        {
+          "titulo": "Como é feita a BOLINHA DE GUDE #Boravê com Mari Fulfaro",
+          "url": "https://www.youtube.com/watch?v=vP3zJmtkhxc&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=1"
+        },
+        {
+          "titulo": "Andamos num SUBMARINO BRASILEIRO da MARINHA! #Boravê",
+          "url": "https://www.youtube.com/watch?v=83Xo8W_Zb7U&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=2"
+        },
+        {
+          "titulo": "Fizemos um CARRO ELÉTRICO MOVIDO A PILHAS AA!",
+          "url": "https://www.youtube.com/watch?v=eP4IWLYtGoU&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=3"
+        },
+        {
+          "titulo": "Entramos nas TURBINAS de ITAIPU! #Boravê",
+          "url": "https://www.youtube.com/watch?v=48IlepuOvLw&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=4"
+        },
+        {
+          "titulo": "INCRÍVEL!!! Relógio de sol que projeta o horário",
+          "url": "https://www.youtube.com/watch?v=sYc-mLEsSW4&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=5"
+        },
+        {
+          "titulo": "Como é feito o tratamento de esgoto #Boravê",
+          "url": "https://www.youtube.com/watch?v=E3I74m_fQqA&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=6"
+        },
+        {
+          "titulo": "Fizemos um alto-falante de fogo!!! (TUBO DE RUBENS)",
+          "url": "https://www.youtube.com/watch?v=iuaTCKkYtRM&list=PLYjrJH3e_wDOFrNDYZluY23tvvupBMCuj&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Como sobreviver ao fim do mundo",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Faça um aspirador turbinado com cone de rua",
+          "url": "https://www.youtube.com/watch?v=TMKFFM1zXs0&list=PLYjrJH3e_wDMYvle2C0McPkIa2ZYI0SYl&index=1"
+        },
+        {
+          "titulo": "CARRO que anda SEM MOTORISTA? #Boravê",
+          "url": "https://www.youtube.com/watch?v=QZ8H-Tej0aQ&list=PLYjrJH3e_wDMYvle2C0McPkIa2ZYI0SYl&index=2"
+        },
+        {
+          "titulo": "Dica de sobrevivência: cola quente de emergência",
+          "url": "https://www.youtube.com/watch?v=RdhlCnSr-Pk&list=PLYjrJH3e_wDMYvle2C0McPkIa2ZYI0SYl&index=3"
+        },
+        {
+          "titulo": "Como fazer um DETECTOR DE METAIS",
+          "url": "https://www.youtube.com/watch?v=T2eI8gmRsx0&list=PLYjrJH3e_wDMYvle2C0McPkIa2ZYI0SYl&index=4"
+        },
+        {
+          "titulo": "Truque para contar quantidades absurdas (acima de 1000!!!)",
+          "url": "https://www.youtube.com/watch?v=kNc94PDatXg&list=PLYjrJH3e_wDMYvle2C0McPkIa2ZYI0SYl&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "Como ser maker gastando pouco",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "BRINQUEDO BARULHENTO? A gente deu um jeito!",
+          "url": "https://www.youtube.com/watch?v=lAi9tCkjSbU&list=PLYjrJH3e_wDMjPg5UkLt2KVxpde0tasCU&index=1"
+        },
+        {
+          "titulo": "Como fazer fonte de bancada (superfonte!) #ManualMaker Aula 2, Vídeo 3",
+          "url": "https://www.youtube.com/watch?v=2Ou7MOVZeo4&list=PLYjrJH3e_wDMjPg5UkLt2KVxpde0tasCU&index=2"
+        },
+        {
+          "titulo": "MESA FÁCIL e FORTE para estudar e trabalhar em casa (home office)",
+          "url": "https://www.youtube.com/watch?v=dxMOh20k8UA&list=PLYjrJH3e_wDMjPg5UkLt2KVxpde0tasCU&index=3"
+        },
+        {
+          "titulo": "ALARME CASEIRO versão 2.0",
+          "url": "https://www.youtube.com/watch?v=Vg5DHnanr9c&list=PLYjrJH3e_wDMjPg5UkLt2KVxpde0tasCU&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "Manual do Mundo with subtitles in English",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Como fazer uma BOMBA DE FEDOR caseira passo a passo",
+          "url": "https://www.youtube.com/watch?v=c5lLia-SQEE&list=PLYjrJH3e_wDP107od7L6U_VkgiG0Fow6s&index=1"
+        },
+        {
+          "titulo": "Corrente MÁGICA com argolas (brinquedo)",
+          "url": "https://www.youtube.com/watch?v=WVN6UI_oKH8&list=PLYjrJH3e_wDP107od7L6U_VkgiG0Fow6s&index=6"
+        },
+        {
+          "titulo": "Tornado de fogo (EXPERIÊNCIA de FÍSICA)",
+          "url": "https://www.youtube.com/watch?v=dJFhZLjBsCU&list=PLYjrJH3e_wDP107od7L6U_VkgiG0Fow6s&index=9"
+        },
+        {
+          "titulo": "COMO FAZER TINTA INVISÍVEL",
+          "url": "https://www.youtube.com/watch?v=EQQBTFQQG8Y&list=PLYjrJH3e_wDP107od7L6U_VkgiG0Fow6s&index=12"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos de Astronomia - Manual do Mundo",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Faça AGORA 5 experiências usando pressão atmosférica! #clubedecienciasmm",
+          "url": "https://www.youtube.com/watch?v=hEYkVbx7cmY&list=PLYjrJH3e_wDPTdysmnhIp7m5lYyNTTmoE&index=1"
+        },
+        {
+          "titulo": "Astronautas em gravidade zero? Te enganaram! #AprendiHoje",
+          "url": "https://www.youtube.com/watch?v=zxnaU5fKJDM&list=PLYjrJH3e_wDPTdysmnhIp7m5lYyNTTmoE&index=2"
+        },
+        {
+          "titulo": "Descubra 8 crateras de meteoros pelo Google Maps #AprendiHoje",
+          "url": "https://www.youtube.com/watch?v=QnuE_sZZ7ec&list=PLYjrJH3e_wDPTdysmnhIp7m5lYyNTTmoE&index=3"
+        },
+        {
+          "titulo": "Como os ASTRONAUTAS fazem COCÔ no ESPAÇO? #Boravê com Mari Fulfaro",
+          "url": "https://www.youtube.com/watch?v=rn2GFzoiS7k&list=PLYjrJH3e_wDPTdysmnhIp7m5lYyNTTmoE&index=5"
+        },
+        {
+          "titulo": "COMO MEDIR DISTÂNCIA da Terra até as estrelas",
+          "url": "https://www.youtube.com/watch?v=gFCfDmZcUH4&list=PLYjrJH3e_wDPTdysmnhIp7m5lYyNTTmoE&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Bolas perfeitas do Manual do Mundo",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Como transformar PAPEL ALUMÍNIO em uma BOLA DE METAL",
+          "url": "https://www.youtube.com/watch?v=UuK_KwQmnDM&list=PLYjrJH3e_wDN4oO1XWx0mJEwJxCsQT2b6&index=1"
+        },
+        {
+          "titulo": "Como fazer a BOLA DE GELO perfeita!",
+          "url": "https://www.youtube.com/watch?v=6VUec5au_Q0&list=PLYjrJH3e_wDN4oO1XWx0mJEwJxCsQT2b6&index=2"
+        },
+        {
+          "titulo": "Como fazer a BOLA DE LAMA perfeita (HIKARU DORODANGO)",
+          "url": "https://www.youtube.com/watch?v=UsKlecnPTco&list=PLYjrJH3e_wDN4oO1XWx0mJEwJxCsQT2b6&index=3"
+        },
+        {
+          "titulo": "Fizemos a BOLA DE MADEIRA perfeita!",
+          "url": "https://www.youtube.com/watch?v=-NlbocNFSaA&list=PLYjrJH3e_wDN4oO1XWx0mJEwJxCsQT2b6&index=4"
+        },
+        {
+          "titulo": "Fizemos a BOLA DE PAPEL perfeita!!!",
+          "url": "https://www.youtube.com/watch?v=DNTs9Kqi8dw&list=PLYjrJH3e_wDN4oO1XWx0mJEwJxCsQT2b6&index=6"
+        }
+      ]
+    }
+  ]
+}
